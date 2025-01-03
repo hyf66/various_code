@@ -1,4 +1,4 @@
-运用matalab完成以下自动控制原理实验
+运用matalab完成以下自动控制原理实验//2025年1月3日15点27分最新版更正还未上传，此版本有若干问题请自行辨别
 
 ![QQ_1735373908254](https://github.com/user-attachments/assets/b12849c1-284f-4742-a9d3-749a24c83b7b)
 ![image](https://github.com/user-attachments/assets/e8632a1a-9cae-46be-a44e-3bf137f13ef8)
